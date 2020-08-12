@@ -1,0 +1,16 @@
+cron:
+- description: "Get Likes of Users"
+  url: /getlikes
+  schedule: every 60 mins
+
+- description: "Trail"
+  url: /trail
+  schedule: every 60 mins
+
+- description: "Get Posts"
+  url: /getpostids
+  schedule: every 168 hours
+
+- description: "Get Comments"
+  url: /getcomments
+  schedule: every 168 hours
