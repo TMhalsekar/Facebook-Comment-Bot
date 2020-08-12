@@ -1,2 +1,2 @@
 # Facebook-Comment-Bot
-A script which allows to auto comment on a anyFacebook post 
+A script which allows to automate commenting on any Facebook post 
